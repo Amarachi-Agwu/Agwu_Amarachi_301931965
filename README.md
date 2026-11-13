@@ -1,7 +1,13 @@
-# Amarachi Agwu — MIT 8103
+# Hospital Clinic Appointment and Measurement System
 
-Student ID: 301931965
+Amarachi Agwu · Student ID 301931965
 
-Hospital/ Clinic System
+The portfolio uses fictional records for Hospital Clinic Appointment and Measurement System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Agwu_Amarachi_301931965_FinalSummary.md) · [PDF](Agwu_Amarachi_301931965_FinalSummary.pdf)
